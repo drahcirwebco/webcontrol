@@ -1,0 +1,5 @@
+{
+  "name": "Web Control",
+  "description": "Web Control: Uma aplicação de FP&A (Planejamento e Análise Financeira) com foco em despesas, centros de custo, análise de orçado vs. realizado e relatórios. Este dashboard interativo é construído com React e TypeScript.",
+  "requestFramePermissions": []
+}
